@@ -1,0 +1,11 @@
+[package]
+name = "Copperhead"
+version = "1.0.0"
+authors = ["mhjlam <mhjlam@proton.me>"]
+edition = "2024"
+
+[dependencies]
+image = "0.25.6"
+piston_window = "0.127.0"
+rand = "0.8.5"
+winit = "0.24.0"

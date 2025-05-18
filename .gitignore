@@ -1,0 +1,35 @@
+# Rust/Cargo
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Logs
+*.log
+
+# Byproducts
+*.d
+*.pdb
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDEs
+.idea/
+*.iml
