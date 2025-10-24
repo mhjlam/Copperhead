@@ -6,9 +6,9 @@ An arcade-style Snake game written in Rust.
 
 ## Controls
 
-- Arrow keys: Move the snake
-- Space: Start or restart the game
-- Esc: Quit
+- **Arrow** keys: Move the snake.
+- **Space**: Start or restart the game.
+- **Escape**: Quit game.
 
 ## Requirements
 
@@ -22,3 +22,7 @@ An arcade-style Snake game written in Rust.
 
 - Build only: `cargo build`
 - Build and run: `cargo run`.
+
+## License
+
+This software is licensed under the [CC BY-NC-SA License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
