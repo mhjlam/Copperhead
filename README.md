@@ -1,8 +1,10 @@
 # Copperhead
 
-An arcade-style Snake game written in Rust.
+Arcade-style Snake game written in Rust.
 
-[![](Copperhead.gif)](Copperhead.mp4)
+<p align="center">
+   <img src="media/copperhead.gif" alt="Demo Animation" width="720"/>
+</p>
 
 ## Controls
 
