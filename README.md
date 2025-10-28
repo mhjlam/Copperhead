@@ -3,7 +3,7 @@
 Arcade-style Snake game written in Rust.
 
 <p align="center">
-   <img src="media/copperhead.gif" alt="Demo Animation" width="720"/>
+   <img src="media/copperhead.gif" alt="Demo Animation" width="400"/>
 </p>
 
 ## Controls
