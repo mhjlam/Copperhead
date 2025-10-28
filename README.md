@@ -1,9 +1,12 @@
 # Copperhead
 
-Arcade-style Snake game written in Rust.
+**Arcade-Style Snake Game**
+
+> Maurits Lam  
+> 2025
 
 <p align="center">
-   <img src="media/copperhead.gif" alt="Demo Animation" width="400"/>
+   <img src="media/copperhead.gif" alt="Demo Animation" height="400"/>
 </p>
 
 ## Controls
